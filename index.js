@@ -29,7 +29,7 @@ app.get("/api/v1/pets", (req,res) => {
 
 //
 
-//yeah im not going to lie, i literally could't psudo-code this far because i literally didn't know what to do until experimenting for like an hour
+//yeah im not going to lie, i literally couldn't psudo-code this far because i literally didn't know what to do until experimenting for like an hour
 app.get("/api/v1/pets/owner", (req,res) => {
   
 
